@@ -1,24 +1,5 @@
 # README
+This is a two-sided marketplace app where students and teachers can take or teach various courses. The app is written in CSS, HTMl, and Ruby on Rails; the Stripe API is used as well. Once you sign up using the link on the top right of the page, you can either teach or take a course. You can use the 'Teach a Course' link at the bottom left to create a new course. After you fill out each field and create the course, you can click on 'Administrator' to edit the course. Click 'Add a New Section...' to add lessons to your course. Once you have created multiple lessons, you can then click and drag to reorder them, if need be. To take a course, you can either click on 'See All Courses' at the top left of the page or 'Learn More' in the middle of the home page. Click on the name of the course to go to the course detail page. If the course is free, you can click 'Enroll', otherwise click 'Pay Now'. Once you have paid, you will have full access to the course. You can click on 'Flixter' at the top left at any time to get to the home page. The 'My Dashboard' link will show all of the courses you have created or are enrolled in.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The app is available at: https://flixternew-austin-atwood.herokuapp.com/
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
